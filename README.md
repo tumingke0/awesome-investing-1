@@ -59,6 +59,7 @@ First, before you start to invest why not learn a thing or two?
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
 |[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
 |[ROIC.ai](https://www.roic.ai)|Minimalistic financial data for public companies|
+|[DisconfirmAI](https://disconfirmai.com/en)|Investment research platform that looks for disconfirming evidence before you trust a thesis|
 
 # Insider & Superinvestors portfolios
 
