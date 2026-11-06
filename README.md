@@ -44,6 +44,7 @@ First, before you start to invest why not learn a thing or two?
 |[Beanvest](https://beanvest.com/)|❤️ Quality Investing research. This is my website.|
 |[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks (Pro tip: private browsing)|
 |[Fiscal](https://fiscal.ai/)|❤️ Financial Data and screener|
+|[DisconfirmAI](https://disconfirmai.com/en)|AI-era investment research and reading platform focused on seeking evidence that could overturn a thesis before treating it as conviction|
 |[Morningstar](https://www.morningstar.com/)|❤️ Research companies and their moat (Pro tip: if you use [Interactive Brokers](https://ibkr.com/referral/romain334) you get this for free)|
 |[Quartr](https://quartr.com/)|❤️ Great mobile app to listen to earning calls|
 |[TradingView](https://www.tradingview.com/)|❤️ Want charts ? This is what you need.|
