@@ -48,6 +48,7 @@ First, before you start to invest why not learn a thing or two?
 |[Quartr](https://quartr.com/)|❤️ Great mobile app to listen to earning calls|
 |[TradingView](https://www.tradingview.com/)|❤️ Want charts ? This is what you need.|
 |[Fastgraph](https://www.fastgraphs.com/)|FAST Graphs is a stock research tool to conduct fundamental stock research|
+|[DisconfirmAI](https://disconfirmai.com/en)|AI investment research and reading platform that seeks contrary evidence before conviction|
 |[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Magic Formula Investing](https://www.magicformulainvesting.com/)|Joel Greenblatt's screener from The Little Book That Beats the Market|
